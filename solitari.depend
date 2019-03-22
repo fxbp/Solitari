@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1462568671 source:c:\users\francesc\desktop\ge inf - udg\ge inf 1\mtp 2\practica final\solitari\baralla.cpp
+	<cstdlib>
+	"Baralla.h"
+
+1462568162 c:\users\francesc\desktop\ge inf - udg\ge inf 1\mtp 2\practica final\solitari\baralla.h
+	"Carta.h"
+
+1462568661 c:\users\francesc\desktop\ge inf - udg\ge inf 1\mtp 2\practica final\solitari\carta.h
+	<string>
+
+1462566005 source:c:\users\francesc\desktop\ge inf - udg\ge inf 1\mtp 2\practica final\solitari\carta.cpp
+	"Carta.h"
+
